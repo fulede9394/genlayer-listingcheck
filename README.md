@@ -5,6 +5,14 @@ listing — a job post, a rental, an event page, a grant call — is
 still live, instead of trusting that a link that loads is a link
 that is still open.
 
+## Deployed
+
+- Network: StudioNet (GenLayer Studio)
+- Contract: `0xdd5aB67144B0d41364BA0B8c0737178013E6d841`
+- Deploy tx: `0xb3641fa1b80d48be8f4a59335627e5dae7ad3aade4f0269ccc970e045763f9d6`
+- Explorer: https://explorer-studio.genlayer.com/address/0xdd5aB67144B0d41364BA0B8c0737178013E6d841
+- Studio: https://studio.genlayer.com/?import-contract=0xdd5aB67144B0d41364BA0B8c0737178013E6d841
+
 ## Why this exists
 
 Listings stay up long after the opportunity is gone. Applicants
